@@ -8,9 +8,8 @@
 This project implements the Image-to-Image Schrödinger Bridge (I2SB) algorithm for image enhancement. The model leverages FlashAttention to accelerate training and inference, significantly improving computational efficiency. The I2SB backbone refines image quality by learning an optimal transition path between degraded and high-quality images.
 
 ## Example Results
-Before             |  After
 :-------------------------:|:-------------------------:
-![Before Enhancement](img.jpg)  |  ![After Enhancement](img1.jpg)
+![](i2sb-with-FlashAttention/Screenshot 2025-02-21 113302.png) 
 
 ## Hardware & Environment Setup
 - **GPU**: NVIDIA RTX 3080 Ti (12GB VRAM)
