@@ -1,7 +1,10 @@
-
+# Image Segmentation using U-Net and FCN with a VGG16 backbone
 ---
 
 ## 🛠️ Technologies & Libraries Used
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.3.1-EE4C2C?logo=pytorch)](https://pytorch.org/)
+[![CUDA](https://img.shields.io/badge/CUDA-12.6-76B900?logo=nvidia)](https://developer.nvidia.com/cuda-toolkit)
 
 This project leverages several Python libraries for deep learning, image processing, and data visualization:
 
