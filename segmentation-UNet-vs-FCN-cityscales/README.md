@@ -34,8 +34,8 @@ This project leverages several Python libraries for deep learning, image process
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-name>
+    git clone https://github.com/maazhamidexe/colab-projects
+    cd colab-projects/segmentation-UNet-vs-FCN-cityscales
     ```
 2.  **Dataset:**
     *   Ensure your dataset is placed in the `Dataset_Final_Exam_CV/cityscapes_data/` directory, with `train` and `val` subfolders.
@@ -44,8 +44,7 @@ This project leverages several Python libraries for deep learning, image process
     It's recommended to use a virtual environment (e.g., `venv` or `conda`).
     ```bash
     pip install torch torchvision torchaudio torchmetrics matplotlib numpy Pillow tqdm torchsummary
-    # Or if you have a requirements.txt:
-    # pip install -r requirements.txt 
+  
     ```
     Ensure you install the correct PyTorch version for your CUDA setup if using a GPU.
 4.  **Run the Jupyter Notebook:**
