@@ -10,16 +10,14 @@ Here's a brief overview of the main project directories currently available:
 
 *   📂 **`gpt-2-from-scratch/`**
     *   **Description:** Contains a notebook likely detailing an implementation or exploration of the GPT-2 (Generative Pre-trained Transformer 2) model from its foundational components.
-    *   *Last noted update (from image): "gbt from scratch"*
+    
 
 *   📂 **`i2sb-with-FlashAttention/`**
     *   **Description:** This project seems to focus on image-related tasks, potentially "Image-to-Something-Better" or a similar generative/transformative model, enhanced with FlashAttention for improved efficiency and speed.
-    *   *Last noted update (from image): "image seg using unet"* (This commit message might relate to an update that also touched this folder or is a general recent commit. The folder name suggests attention mechanisms in image processing.)
-
+    
 *   📂 **`segmentation-UNet-vs-FCN-cityscales/`**
     *   **Description:** Houses a project focused on image segmentation, likely comparing or implementing U-Net and Fully Convolutional Network (FCN) architectures. The "cityscales" (likely a typo for Cityscapes) suggests the dataset used is the Cityscapes dataset, common for urban scene segmentation.
-    *   *Last noted update (from image): "Update README.md"*
-
+   
 ## Getting Started
 
 To explore any of these projects:
